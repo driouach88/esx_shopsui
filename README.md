@@ -11,4 +11,5 @@ Name | URL
 --- | ---
 *esx_shops* | `https://github.com/ESX-Org/esx_shops`
 *esx_weaponshop* | `https://github.com/ESX-Org/esx_weaponshop`
+*esx_weaponshop* | `https://github.com/mythicrp/mythic_notify`
 
